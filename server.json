@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "diego3g",
+      "image": "https://github.com/diego3g.png",
+      "stars": 10000
+    },
+    {
+      "id": 3,
+      "name": "maykbrito",
+      "image": "https://github.com/maykbrito.png",
+      "stars": 10000
+    },
+    {
+      "id": 1659296445524,
+      "name": "Ca-calcante",
+      "image": "https://github.com/PedroZef.png",
+      "stars": 100
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+.container {
+  width: 100%;
+  max-width: 720px;
+
+  margin: 2rem auto;
+}
+
+.userContainer {
+  padding: 2rem;
+  background-color: #fff;
+
+  display: flex;
+
+  justify-content: space-between;
+  align-items: center;
+  
+  margin-top: 1rem;
+  border-radius: 0.5rem;
+}
+
+.userContent {
+  display: flex;
+  align-items: center;
+
+
+  img {
+    width: 80px;
+    height: 80px;
+    border-radius: 80px;
+  }
+}
+
+.user {
+  display: flex;
+  flex-direction: column;
+
+  align-items: flex-start;
+  margin-left: 1rem;
+
+  span {
+    display: flex;
+    align-items: center;
+
+    svg {
+      font-size: 1.2rem;
+      margin-left: 0.5rem;
+    }
+  }
+}
+
+.editIcon {
+  font-size: 24px;
+  color: #EE6C4D;
+
+  cursor: pointer;
+
+  & + svg {
+    margin-left: 1rem;
+  }
+}
